@@ -11,6 +11,5 @@
   - open the folder in terminal on terminal run :
 
 
-  `$npm init -y`
-  `$npm i request`
-  `$node app.js #location`
+  `$npm install`
+  `$node app.js `
