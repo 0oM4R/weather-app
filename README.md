@@ -1,9 +1,9 @@
-# Node app to know the weather
+# Node app to know the weather using 
 
  
 
 ## how is it works?
-
+Using [Mapbox](https://www.mapbox.com/) API
   - required node and npm
 
  
